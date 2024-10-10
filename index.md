@@ -1,6 +1,3 @@
----
-title: "徐昊"
----
 
 <img align="left" src="https://github.com/user-attachments/assets/87ea0384-254d-43b9-b2a4-a71e80e6e472"/>
 
