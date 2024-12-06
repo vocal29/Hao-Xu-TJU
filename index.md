@@ -5,7 +5,7 @@
 
 天津大学智能与计算学部 助理研究员
 
-邮箱：hao_xu@tju.edu.com
+邮箱：hao_xu@tju.edu.cn
 
 <br>
 <br>
