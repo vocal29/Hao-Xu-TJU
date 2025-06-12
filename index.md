@@ -15,7 +15,7 @@
 ---
 
 ### **个人简介**
-徐昊，天津大学网络安全学院网络与云计算实验室（TANKLab）助理研究员、博士后，主要研究方向为**区块链**，**隐私计算**。近 3 年在计算机网络领域会议/期刊发表多篇学术论文，其中包括USENIX NSDI、IEEE INFOCOM、IEEE Journal on Selected Areas in Communications (JSAC)、IEEE Transactions on Computers (TC)、IEEE ICDCS、SRDS等国际知名会议/期刊论文。
+徐昊，天津大学网络安全学院网络与云计算实验室（TANKLab）助理研究员、博士后，主要研究方向为**区块链**，**隐私计算**。近 3 年围绕区块链领域发表多篇学术论文，其中包括USENIX NSDI、IEEE INFOCOM、IEEE Journal on Selected Areas in Communications (JSAC)、IEEE Transactions on Computers (TC)、IEEE ICDCS、SRDS等国际知名会议/期刊论文。
 
 ### **工作经历**
 *	2024.07-至今：中国，天津大学，网络安全学院，助理研究员、博士后（合作导师：李克秋教授）
@@ -31,14 +31,21 @@
 *	担任国际学术会议 HPCC 2024、MSN 2024、ISPA 2024 程序委员会成员
 *	担任国际学术期刊/会议 TIFS 2025、JSAC 2022、JSA 2024、IOTJ 2024、ICPADS 2023、ISPA 2023 审稿人
 
-### **论文发表**
-*	**Hao Xu**, Xiulong Liu, Chenyu Zhang, Wenbin Wang, Jianrong Wang, Keqiu Li, “**CRACKLE: A Fast Sector-based BFT Consensus with Sublinear Communication Complexity**,” in Proc. of the IEEE INFOCOM, 2024. **[CCF A类会议]**
-*	**Hao Xu**, Bin Xiao, Xiulong Liu, Shan Jiang, Weilian Xue, Jianrong Wang, Keqiu Li, “**Empowering Authenticated and Efficient Queries for STK Transaction-based Blockchains**,” in the IEEE Transactions on Computers (TC), vol. 72, no. 8, pp. 2209-2223, Aug. 2023, doi: 10.1109/TC.2023.3241263. **[CCF A类期刊]**
-*	**Hao Xu**, Xiulong Liu, Zhelin Liang, Hongyan Sun, Weilian Xue, Jianrong Wang, Keqiu Li, “**A Transaction Cardinality Estimation Approach for QoS-Adjustable Intelligent Blockchain Systems**,” in the IEEE Journal on Selected Areas in Communications (JSAC), vol. 40, no. 12, pp. 3672-3684, Dec. 2022, doi: 10.1109/JSAC.2022.3213327. **[CCF A类期刊]**
-*	Xiulong Liu, Zhiyuan Zheng, Wenbin Wang, **Hao Xu**, Fengjun Xiao and Keqiu Li, “**Towards Cost-Effective and Robust Packaging in Multi-Leader BFT Blockchain Systems**, ” in IEEE Transactions on Computers  (TC), 2024, doi: 10.1109/TC.2024.3398510. **[CCF A类期刊]**
-*	Haochen Ren, Xiulong Liu, **Hao Xu**, Chenyu Zhang, Keqiu Li, “**CubeChain: Generalized Query Framework for Intra- and Cross-Chain Scenarios**,” in Proc. of the IEEE ICDCS, 2024. **[CCF B类会议]**
-*	Wenbin Wang, Xiulong Liu, **Hao Xu**, Wenyu Qu, “**An Effective and Robust Transaction Packaging Approach for Multi-leader BFT Blockchain Systems**,” in Proc. of the SRDS, pp. 14-24, 2023, doi: 10.1109/SRDS60354.2023.00012. **[CCF B类会议]**
-*	Zhelin Liang, **Hao Xu**, Xiulong Liu, Shan Jiang, Keqiu Li, “**An Efficient and Secure Node-sampling Consensus Mechanism for Blockchain Systems**,” in Proc. of the MSN, pp. 371-378, 2022, doi: 10.1109/MSN57253.2022.00067. **[CCF C类会议]**
+### **代表论文**
+*	**Hao Xu**, Xiulong Liu, Chenyu Zhang, Wenbin Wang, Jianrong Wang, and Keqiu Li, “**CRACKLE: A Fast Sector-based BFT Consensus with Sublinear Communication Complexity**,” in Proc. of the IEEE INFOCOM, 2024, doi: 10.1109/INFOCOM52122.2024.10621123. **[CCF A类会议]**
+*	**Hao Xu**, Jiaqi Zhang, Xiulong Liu, Zhimin Yu, Tingyu Fan, Baochao Chen, and Keqiu Li, “**Tangram: Enabling Efficient and Balanced Dynamic Storage Extension on Sharding Blockchain Systems**,” in the IEEE Transactions on Computers (TC), vol. 74, no. 6, June. 2025, doi: 10.1109/TC.2025.3547622. **[CCF A类期刊]**
+*	**Hao Xu**, Bin Xiao, Xiulong Liu, Shan Jiang, Weilian Xue, Jianrong Wang, and Keqiu Li, “**Empowering Authenticated and Efficient Queries for STK Transaction-based Blockchains**,” in the IEEE Transactions on Computers (TC), vol. 72, no. 8, Aug. 2023, doi: 10.1109/TC.2023.3241263. **[CCF A类期刊]**
+*	**Hao Xu**, Xiulong Liu, Zhelin Liang, Hongyan Sun, Weilian Xue, Jianrong Wang, and Keqiu Li, “**A Transaction Cardinality Estimation Approach for QoS-Adjustable Intelligent Blockchain Systems**,” in the IEEE Journal on Selected Areas in Communications (JSAC), vol. 40, no. 12, Dec. 2022, doi: 10.1109/JSAC.2022.3213327. **[CCF A类期刊]**
+*	Xiulong Liu, Zhiyuan Zheng, **Hao Xu**, Zhelin Liang, Gaowei Shi, Chenyu Zhang, and Keqiu Li, “**Enabling Consistent Sensing Data Sharing Among IoT Edge Servers via Lightweight Consensus**, ” in IEEE Transactions on Computers (TC), vol. 74, no. 6, June. 2025, doi: 10.1109/TC.2025.3549616. **[CCF A类期刊]** **[通讯作者]**
+*	Gaowei Shi, Xiulong Liu, Huan Wang, Yuhan Li, **Hao Xu**, Liyuan Ma, and Keqiu Li, “**BrokerAS: Towards Fault-tolerant Atomic Cross-chain Swaps**,” in Proc. of the IEEE INFOCOM, 2025. **[CCF A类会议]** **[通讯作者]**
+*	Liyuan Ma, Dengcheng Hu, Xiulong Liu, **Hao Xu**, Jianrong Wang, and Keqiu Li, “**AIGC-CM: An Efficient and Scalable Blockchain Solution for AIGC Copyright Management**,” in Proc. of the IEEE INFOCOM, 2025. **[CCF A类会议]** **[通讯作者]**
+* Juncheng Ma, Xiulong Liu, **Hao Xu**, Dengcheng Hu, Gaowei Shi, Liyuan Ma, and Keqiu Li, “**HydraChain: A Cooperative MAPPO Architecture for Load Balancing in IoT Sharding Blockchain**, ” in IEEE Internet of Things Journal (IOTJ), 2025, doi: 10.1109/JIOT.2025.3567146. **[SCI II区期刊]** **[通讯作者]**
+*	Dengcheng Hu, Jianrong Wang, Xiulong Liu, **Hao Xu**, Xujing Wu, Muhammad Shahzad, Guyue Liu, and Keqiu Li, “**Ladder: A Convergence-based Structured DAG Blockchain for High Throughput and Low Latency**,” in Proc. of the USENIX NSDI, 2025. **[CCF A类会议]**
+*	Xiulong Liu, Zhiyuan Zheng, Wenbin Wang, **Hao Xu**, Fengjun Xiao, and Keqiu Li, “**Towards Cost-Effective and Robust Packaging in Multi-Leader BFT Blockchain Systems**, ” in IEEE Transactions on Computers  (TC), vol. 73, no. 11, Nov. 2024, doi: 10.1109/TC.2024.3398510. **[CCF A类期刊]**
+*	Haochen Ren, Xiulong Liu, **Hao Xu**, Chenyu Zhang, and Keqiu Li, “**CubeChain: Generalized Query Framework for Intra- and Cross-Chain Scenarios**,” in Proc. of the IEEE ICDCS, 2024, doi: 10.1109/ICDCS60910.2024.00040. **[CCF B类会议]**
+*	Wenbin Wang, Xiulong Liu, **Hao Xu**, and Wenyu Qu, “**An Effective and Robust Transaction Packaging Approach for Multi-leader BFT Blockchain Systems**,” in Proc. of the SRDS, 2023, doi: 10.1109/SRDS60354.2023.00012. **[CCF B类会议]**
+*	Baochao Chen, Xiulong Liu, **Hao Xu**, Sheng Chen, and Keqiu Li, “**BSSN: Enabling Adjustable Blockchain Storage for Resource-Constrained IoT Scenarios**, ” in IEEE Internet of Things Journal (IOTJ), vol. 12, no. 4, Feb. 2025, doi: 10.1109/JIOT.2024.3483898. **[SCI II区期刊]**
+*	Zhelin Liang, **Hao Xu**, Xiulong Liu, Shan Jiang, and Keqiu Li, “**An Efficient and Secure Node-sampling Consensus Mechanism for Blockchain Systems**,” in Proc. of the MSN, 2022, doi: 10.1109/MSN57253.2022.00067. **[CCF C类会议]**
 
 ### **发明专利**
 *	李克秋,**徐昊**,孙虹妍等. **一种基于基数估计方法的高效区块链交易查询技术**[P]. CN114881654B,2023-04-11. **[授权]**
